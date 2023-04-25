@@ -68,7 +68,7 @@ export default function Profile() {
           <div className="profile-options">
             <button className="btn primary-btn"> Hire Me </button>
             <a
-              href="PSGANESH1997.github.io/public/React My Resume.pdf"
+              href="/public/React My Resume.pdf"
               download="Selvaganesh React My resume.pdf"
             >
               <button className="btn highlighted-btn">Get Resume</button>
